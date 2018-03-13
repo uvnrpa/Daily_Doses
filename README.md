@@ -1,4 +1,2 @@
 # Daily_Doses
-Daily integrated doses
-
-Repository for integrated doses
+Daily integrated doses where gaps in measurements are complemented with modelled data
